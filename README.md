@@ -10,7 +10,3 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
 <img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
-
-### My Github Stats:
---------
-<img src="https://github-readme-stats.vercel.app/api?username=TheStealthy&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff">
